@@ -26,7 +26,7 @@ Check out my portfolio website for more insight in who I am as a person, and my 
 
  **Version Control:** `Git` `GitLab`
 
- **DevOps:** `PowerShell` `.NET` `Python` `API` `Jira` `Slack(Bots)`
+ **DevOps:** `Puppet` `PowerShell` `.NET` `Python` `API` `Jira` `Slack(Bots)`
 
  **Infrastructure:** `Cisco Network` `HPE Server + Network` `HPE GreenLake` `Windows Server` `Server Security` `Networking Security` `Encryption Algorithms` `Exchange` `M365` `Power Platform`
 
