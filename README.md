@@ -5,10 +5,12 @@
 
 ## 🙌 Who am I
 
-Full Stack Developer & DevOps Specialist <br>
+Full Stack Developer & DevOps Specialist. 
+<br>
+<br>
 I'm a 22-year-old self-taught full stack developer and DevOps specialist who strives to create easy-to-use, accessible, and quality work.
 
-And a 2023 Danish ML-Prize winner, for my outstanding work in the tech field as an apprentice.
+I was in 2023 awarded the Danish ML-Prize winner, for my outstanding work in the tech field as an apprentice.
 
 Check out my portfolio website for more insight in who I am as a person, and my work.
 
