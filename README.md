@@ -16,7 +16,7 @@ I'm a 22-year-old self-taught full stack developer and DevOps specialist who str
 
  - Everything on my Full Stack Development journey is done in my spare time, which is where I have learned basically everything I know.
 
-Check out my portfolio website for more insight in who I am as a person, and my work.
+Check out my portfolio website for more insight in who I am as a person, and my work - [rwind.dk](http://rwind.dk)
 
 ## 📦 Toolbox
  
@@ -27,6 +27,8 @@ Check out my portfolio website for more insight in who I am as a person, and my 
  **Version Control:** `Git` `GitLab`
 
  **DevOps:** `PowerShell` `.NET` `Python` `API` `Jira` `Slack(Bots)`
+
+ **Infrastructure:** `Cisco Network` `HPE Server + Network` `HPE GreenLake` `Windows Server` `Server Security` `Networking Security` `Encryption Algorithms`
 
 
 ## 📫 Contact
