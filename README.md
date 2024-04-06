@@ -1,6 +1,5 @@
-# <p align="center"> Hey, I'm Rasmus 👋</p>
+# <p align="center"> Hey, I'm Rasmus 👋 </p>
 <p align="center"> Thanks for stopping by 🙏</p>
-
 
 ## 🙌 Who am I
 
@@ -24,6 +23,6 @@ Check out my portfolio website for more insight in who I am as a person, and my 
 
  For a quick response, DM me on [LinkedIn](https://www.linkedin.com/in/rasmus-wind/) - Or send me an email: rasmuswind7906@gmail.com
 
-## <p align="center"> Github Stats 💙 </p>
+## Github Stats 💙
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=rasmuswind-ai)](https://git.io/streak-stats)
