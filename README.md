@@ -12,7 +12,9 @@ I'm a 22-year-old self-taught full stack developer and DevOps specialist who str
 
 I was in 2023 awarded the Danish ML-Prize, for my outstanding work in the tech field as an apprentice.
 
-I'm currently employed as a DevOps Systems Engineer at a mother company [(Team.blue)](Team.blue), with ownership of +40 companies around Europe
+I'm currently employed as a DevOps Systems Engineer at a mother company [(Team.blue)](Team.blue), with ownership of +40 companies around Europe.
+
+Everything on my Full Stack Development journey is done in my spare time, which is where I have learned basically everything I know.
 
 Check out my portfolio website for more insight in who I am as a person, and my work.
 
