@@ -20,6 +20,8 @@ Check out my portfolio website for more insight in who I am as a person, and my 
 
  **Version Control:** `Git` `GitLab`
 
+ **DevOps:** `PowerShell` `.NET` `Python` `API` `Jira` `Slack(Bots)`
+
 
 ## 📫 Contact
 
