@@ -3,7 +3,7 @@
 ## <p align="center"> Thanks for stopping by 🙏</p>
 
 
-### 🙌 Who am I
+## 🙌 Who am I
 
 Full Stack Developer & DevOps Specialist
 I'm a 22-year-old self-taught full stack developer and DevOps specialist who strives to create easy-to-use, accessible, and quality work.
@@ -12,7 +12,7 @@ And a 2023 Danish ML-Prize winner, for my outstanding work in the tech field as 
 
 Check out my portfolio website for more insight in who I am as a person, and my work.
 
-### 📦 Toolbox
+## 📦 Toolbox
  
  **Fronted Development:** `React` `HTML` `CSS` `JavaScript`
 
@@ -21,7 +21,7 @@ Check out my portfolio website for more insight in who I am as a person, and my 
  **Version Control:** `Git` `GitLab`
 
 
-### 📫 Contact
+## 📫 Contact
 
  For a quick response, DM me on [LinkedIn](https://www.linkedin.com/in/rasmus-wind/) - Or send me an email: rasmuswind7906@gmail.com
 
