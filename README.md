@@ -1,22 +1,22 @@
-### <p align="center"> Hey, I'm Rasmus 👋</p>
+#### <p align="center"> Hey, I'm Rasmus 👋</p>
 
 <p align="center"> Thanks for stopping by 🙏</p>
 
 <p align="center">Full Stack Developer & DevOps Specialist</p>
 <p align="center">Self-taught full stack developer and DevOps specialist who strives to create easy-to-use, accessible, and quality work.</p>
 
-## 📦 Toolbox
- **Fronted Development:** `React` `HTML` `CSS` `JavaScript`
+## <p align="center">  📦 Toolbox </p>
+ <p align="center"> **Fronted Development:** `React` `HTML` `CSS` `JavaScript` </p> 
 
- **Backend Development:** `Docker` `MySQL` `SQLite` `Postman` `PHP` `Apache` `Python` `Node.js` `Azure`
+ <p align="center"> **Backend Development:** `Docker` `MySQL` `SQLite` `Postman` `PHP` `Apache` `Python` `Node.js` `Azure` </p>
 
- **Version Control:** `Git` `GitLab`
+ <p align="center"> **Version Control:** `Git` `GitLab` </p>
 
 
-## 📫 Contact
+## <p align="center"> 📫 Contact </p>
 
- For a quick response, DM me on [LinkedIn](https://www.linkedin.com/in/rasmus-wind/) - Or send me an email: rasmuswind7906@gmail.com
+ <p align="center"> For a quick response, DM me on [LinkedIn](https://www.linkedin.com/in/rasmus-wind/) - Or send me an email: rasmuswind7906@gmail.com </p>
 
-## Github Stats 💙
+## <p align="center"> Github Stats 💙 </p>
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=rasmuswind-ai)](https://git.io/streak-stats)
+<p align="center"> [![GitHub Streak](https://streak-stats.demolab.com/?user=rasmuswind-ai)](https://git.io/streak-stats) </p>
