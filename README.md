@@ -26,4 +26,4 @@ Check out my portfolio website for more insight in who I am as a person, and my 
 
 ## <p align="center"> Github Stats 💙 </p>
 
-<p align="center"> [![GitHub Streak](https://streak-stats.demolab.com/?user=rasmuswind-ai)](https://git.io/streak-stats) </p>
+[![GitHub Streak](https://streak-stats.demolab.com/?user=rasmuswind-ai)](https://git.io/streak-stats)
