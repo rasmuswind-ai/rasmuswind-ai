@@ -1,7 +1,9 @@
 # <p align="center"> Hey, I'm Rasmus 👋 </p>
 <br>
 
-## <p align="center"> Full Stack Developer & DevOps Specialist. </p>
+<p align="center"> 
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Full+Stack+Developer+%26+DevOps+Specialist.)](https://git.io/typing-svg)
+</p>
 
 
 
