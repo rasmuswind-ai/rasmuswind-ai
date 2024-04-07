@@ -1,12 +1,10 @@
 # <p align="center"> Hey, I'm Rasmus 👋 </p>
-<p align="center"> Thanks for stopping by 🙏</p>
+<br>
+## <p align="center"> Full Stack Developer & DevOps Specialist. </p>
 
 
 
 ## 🙌 Who am I
-
-Full Stack Developer & DevOps Specialist. 
-<br>
 <br>
 I'm a 22-year-old self-taught full stack developer and DevOps specialist who strives to create easy-to-use, accessible, and quality work.
 
