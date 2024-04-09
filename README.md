@@ -21,13 +21,13 @@ Check out my portfolio website for more insight in who I am as a person, and my 
 
 ## 📦 Toolbox
  
- **Fronted Development:** `React` `HTML` `CSS` `JavaScript`
+ **Fronted Development:** `React` `HTML` `CSS` `JavaScript` `TypeScript`
 
- **Backend Development:** `Docker` `MySQL` `SQLite` `Postman` `PHP` `Apache` `Python` `Node.js` `Azure` </p>
+ **Backend Development:** `Node.js` `Docker` `MySQL` `SQLite` `Postman` `PHP` `Apache` `Python` `Azure` </p>
 
  **Version Control:** `Git` `GitLab`
 
- **DevOps:** `Puppet` `PowerShell` `.NET` `Python` `API` `Jira` `Slack(Bots)`
+ **DevOps:** `Puppet` `.NET` `Python` `API` `Jira` `Slack(Bots)`
 
  **Infrastructure:** `Cisco Network` `HPE Server + Network` `HPE GreenLake` `Windows Server` `Server Security` `Networking Security` `Encryption Algorithms` `Exchange` `M365` `Power Platform`
 
