@@ -29,7 +29,7 @@ Check out my portfolio website for more insight in who I am as a person, and my 
  
  **Fronted Development:** `React` `JavaScript` `TypeScript` `Tailwind CSS` `CSS` `HTML`
 
- **Backend Development:** `Node.js` `Docker` `MySQL` `SQLite` `Postman` `PHP` `Apache` `Python` `Azure` </p>
+ **Backend Development:** `Node.js` `Vite` `Docker` `MySQL` `SQLite` `Postman` `PHP` `Apache` `Python` `Azure` </p>
 
  **Version Control:** `Git` `GitLab`
 
