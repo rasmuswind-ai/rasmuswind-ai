@@ -15,7 +15,7 @@
 
 ## 🙌 Who am I
 <br>
-I'm a 22-year-old self-taught full stack developer and DevOps specialist who strives to create easy-to-use, accessible, and quality work.
+I'm a 22-year-old full stack developer and DevOps specialist who strives to create easy-to-use, accessible, and quality work.
 
  - I was in 2023 awarded the Danish ML-Prize, for my outstanding work in the tech field as an apprentice.
 
