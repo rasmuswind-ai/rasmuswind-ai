@@ -26,7 +26,7 @@ I'm a 22-year-old full stack developer and DevOps specialist who strives to crea
 
  - Everything on my Full Stack Development journey is done in my spare time, which is where I have learned basically everything I know.
 
-Check out my portfolio website for more insight in who I am as a person, and my work - [rwind.dk](http://rwind.dk)
+Check out my newest finished project - A clone of the Apple iPhone website, made using `ReactJS` `JavaScript` `GSAP` `Tailwind CSS` : http://apple-clone.octih.com/
 
 ## 📦 Toolbox
  
