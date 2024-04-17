@@ -28,7 +28,7 @@ I'm a 22-year-old full stack developer and DevOps specialist who strives to crea
 
 Checkout some of my finished products:
  - A clone of the Apple iPhone website, made using `ReactJS` `JavaScript` `GSAP` `Tailwind CSS` : [Apple Clone](https://phone-showcase.octih.com)
- - A full functional SaaS website, made using `ReactJS` `TypeScript` `Tailwind CSS` `MongoDB` `Stripe` `Clerk` `Cloudinary API` : [Octih.com](https://octih.com)
+ - A full functional SaaS website, made using `ReactJS` `TypeScript` `Tailwind CSS` `MongoDB` `Stripe` `Clerk` `Cloudinary API` : [Octih.com](http://octih.com)
 ## 📦 Toolbox
  
  **Fronted Development:** `React` `JavaScript` `TypeScript` `ThreeJS` `Next.js` `GSAP` `Tailwind CSS` `CSS` `HTML`
