@@ -33,11 +33,11 @@ Checkout some of my finished products:
  
  **Fronted Development:** `React` `JavaScript` `TypeScript` `ThreeJS` `Next.js` `GSAP` `Tailwind CSS` `CSS` `HTML`
 
- **Backend Development:** `Node.js` `MongoDB` `Docker` `MySQL` `SQLite` `Postman` `PHP` `Apache` `Python` `Azure` </p>
+ **Backend Development:** `Node.js` `MongoDB` `Docker` `MySQL` `SQLite` `Postman` `PHP` `Apache` `Python` `Azure` `PowerShell Universal` </p>
 
  **Version Control:** `Git` `GitLab`
 
- **DevOps:** `Puppet` `.NET` `Python` `API` `Jira` `Slack(Bots)`
+ **DevOps:** `Puppet` `.NET` `Python` `API` `Jira` `Slack(Bots)` `PowerShell Universal`
 
  **Infrastructure:** `Cisco Network` `HPE Server + Network` `HPE GreenLake` `Windows Server` `Server Security` `Networking Security` `Encryption Algorithms` `Exchange` `M365` `Power Platform`
 
