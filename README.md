@@ -2,7 +2,7 @@
 <br>
 
 <p align="center"> 
- <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=40CF8E&random=false&width=465&lines=Self+Taught+Full+Stack+Web+Developer.;Infrastructure+DevOps+Systems+Engineer." alt="Typing SVG" /></a>
+ <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=40CF8E&random=false&width=465&lines=Self+Taught+Full+Stack+Web+Developer.;Infrastructure+DevOps+Software+Engineer." alt="Typing SVG" /></a>
 </p>
 
 <div align="center">
@@ -18,11 +18,11 @@
 
 ## 🙌 Who am I
 <br>
-I'm a 22-year-old full stack developer and DevOps specialist who strives to create easy-to-use, accessible, and quality work.
+I'm a 24-year-old full stack developer and DevOps specialist who strives to create easy-to-use, accessible, and quality work.
 
  - I was in 2023 awarded the Danish ML-Prize, for my outstanding work in the tech field as an apprentice.
 
- - I'm currently employed as a DevOps Systems Engineer at a mother company [(Team.blue)](Team.blue), with ownership of +40 companies around Europe.
+ - I'm currently employed as a DevOps Software Engineer at a mother company [(Team.blue)](Team.blue), with ownership of +40 companies around Europe.
 
  - Everything on my Full Stack Development journey is done in my spare time, which is where I have learned basically everything I know.
 
