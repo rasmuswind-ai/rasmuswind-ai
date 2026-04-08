@@ -6,7 +6,6 @@
 </p>
 
 <div align="center">
-    <img src="https://img.shields.io/badge/-Next_JS-black?style=for-the-badge&logoColor=white&logo=nextdotjs&color=000000" alt="nextdotjs" />
     <img src="https://img.shields.io/badge/-React_TS-black?style=for-the-badge&logoColor=white&logo=react&color=61DAFB" alt="react.ts" />
     <img src="https://img.shields.io/badge/-Three_JS-black?style=for-the-badge&logoColor=white&logo=threedotjs&color=000000" alt="three.js" />
     <img src="https://img.shields.io/badge/-TypeScript-black?style=for-the-badge&logoColor=white&logo=typescript&color=3178C6" alt="typescript" />
@@ -22,9 +21,7 @@ I'm a 24-year-old full stack developer and DevOps specialist who strives to crea
 
  - I was in 2023 awarded the Danish ML-Prize, for my outstanding work in the tech field as an apprentice.
 
- - I'm currently employed as a DevOps Software Engineer at a mother company [(Team.blue)](Team.blue), with ownership of +40 companies around Europe.
-
- - Everything on my Full Stack Development journey is done in my spare time, which is where I have learned basically everything I know.
+ - I'm currently employed as a DevOps Engineer
 
 Checkout some of my finished products:
  - A fully functional monitoring dashboard/site with built in data handling and `PM2` hosted `JavaScript` API's, made using `ReactTS` `JavaScript` `Tailwind CSS` `HTML` : [Monitoring Dashboard](https://github.com/rasmuswind-ai/MonitoringDashboard)
