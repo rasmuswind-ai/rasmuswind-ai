@@ -7,7 +7,7 @@
 
 <div align="center">
     <img src="https://img.shields.io/badge/-React_TS-black?style=for-the-badge&logoColor=white&logo=react&color=61DAFB" alt="react.ts" />
-    <img src="https://img.shields.io/badge/-Node_JS-black?style=for-the-badge&logoColor=white&logo=threedotjs&color=000000" alt="node.js" />
+    <img src="https://img.shields.io/badge/-Node_JS-black?style=for-the-badge&logoColor=white&logo=nodedotjs&color=000000" alt="node.js" />
     <img src="https://img.shields.io/badge/-TypeScript-black?style=for-the-badge&logoColor=white&logo=typescript&color=3178C6" alt="typescript" />
     <img src="https://img.shields.io/badge/-Tailwind_CSS-black?style=for-the-badge&logoColor=white&logo=tailwindcss&color=06B6D4" alt="tailwindcss" />
  
