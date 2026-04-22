@@ -22,13 +22,14 @@ I'm a 24-year-old Senior DevOps Systems Engineer based in Vejle, Denmark, who st
 
  - Currently Senior DevOps Systems Engineer at **Team.Blue Denmark A/S**, supporting Infrastructure departments and customers by identifying manual processes and automating them using PowerShell, .NET/C#, and REST APIs.
 
- - Designed and developed Team.Blue's **Hosted Exchange backend** as a solo engineer — 40+ endpoints in ASP.NET Core/C# — despite coming in without prior .NET experience.
+ - Designed and developed Team.Blue's **Hosted Exchange backend** as a solo engineer - 40+ endpoints in ASP.NET Core/C# - despite coming in without prior .NET experience.
 
  - Awarded the Danish National **ML-Prize** by the Danish Minister of Education for outstanding performance as an apprentice at Danfoss A/S ([News Article](https://www.sonderborgnyt.dk/i-dag-fredag-faar-rasmus-wind-fra-augustenborg-overrakt-ml-prisen/)).
 
- - Heavy user of AI coding tools — Cursor as my daily IDE, Claude Code for larger tasks like architecture, refactors, and unfamiliar stacks. I treat them as a sparring partner, not a fix-it chatbot.
+ - Heavy user of AI coding tools - Cursor as my daily IDE, Claude Code for larger tasks like architecture, refactors, and unfamiliar stacks. I treat them as a sparring partner, not a fix-it chatbot.
 
 Checkout some of my finished products:
+ - A single-exe Windows service with a built-in web dashboard for managing, scheduling, and monitoring your PowerShell scripts. Built using `React` `TypeScript` `JavaScript` `TailwindCSS` : [Monad-Code](https://github.com/rasmuswind-ai/MonadCode)
  - A fully functional monitoring dashboard/site with built in data handling and `PM2` hosted `JavaScript` APIs, made using `ReactTS` `JavaScript` `Tailwind CSS` `HTML` : [Monitoring Dashboard](https://github.com/rasmuswind-ai/MonitoringDashboard)
  - A clone of the Apple iPhone website, made using `ReactJS` `JavaScript` `GSAP` `Tailwind CSS` : [Apple Clone](https://github.com/rasmuswind-ai/Apple-Clone)
  - A fully functional SaaS website, made using `ReactJS` `TypeScript` `Tailwind CSS` `MongoDB` `Stripe` `Clerk` `Cloudinary API` : [Octih.com](https://github.com/rasmuswind-ai/Octih)
