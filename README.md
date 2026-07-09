@@ -18,7 +18,7 @@
 
 ## 🙌 Who am I
 <br>
-I'm a 24-year-old Senior DevOps Systems Engineer based in Vejle, Denmark, who strives to create easy-to-use, accessible, and quality work. Strong passion for automating infrastructure tasks at every scale, and code in general.
+I'm a 25-year-old Senior DevOps Systems Engineer based in Vejle, Denmark, who strives to create easy-to-use, accessible, and quality work. Strong passion for automating infrastructure tasks at every scale, and code in general.
 
  - Currently Senior DevOps Systems Engineer at **Team.Blue Denmark A/S**, supporting Infrastructure departments and customers by identifying manual processes and automating them using PowerShell, .NET/C#, and REST APIs.
 
